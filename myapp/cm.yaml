@@ -4,4 +4,4 @@ metadata:
   name: myapp
 data:
   index.html: |
-    This is a custom app!
+    Hello, human user!
