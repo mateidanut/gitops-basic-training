@@ -1,1 +1,1 @@
-# gitops-basic-training
+# Modified README
